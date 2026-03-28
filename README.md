@@ -33,7 +33,7 @@ This project demonstrates how AI techniques can coordinate rescue operations eff
 
 ### 🔹 Mission Stats Dashboard
 
-![Mission Stats](images/stats.png)
+![Mission Stats](images/stat.png)
 
 ### 🔹 Configuration Menu
 
