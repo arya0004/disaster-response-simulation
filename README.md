@@ -1,35 +1,28 @@
 # 🚑🔥 Disaster Response Simulation (AI-Based)
 
 An intelligent **multi-agent disaster management system** built in **C++**, simulating real-time emergency response in a dynamic city environment.
-
 This project demonstrates how AI techniques can coordinate rescue operations efficiently under constraints like time, resources, and evolving hazards.
-
 ---
 
 ## 🧠 Core Concepts Used
-
 * 🤖 Multi-Agent Systems
 * 📦 Contract Net Protocol (Task Allocation)
 * 🧭 A* Pathfinding Algorithm
 * 🎯 Goal Stack Planning
-* 🧱 Object-Oriented Design (OOP)
-
+* 🧱 Object-Oriented Design (OOP
 ---
 
 ## ⚙️ Features
-
 * 🌆 Dynamic city grid simulation (25x25)
 * 🔥 Real-time fire spread with intensity control
 * 🧍 Victim health decay & urgency prioritization
 * 🚒 Intelligent agents:
-
   * Rescue Teams
   * Fire Brigades
   * Ambulances
 * 🧠 Smart task allocation based on cost & priority
 * 📊 Live mission statistics dashboard
 * 🎮 Interactive configuration before simulation
-
 ---
 
 ## 🖥️ Simulation Preview
@@ -73,41 +66,15 @@ g++ main.cpp -o simulation
 ./simulation
 ```
 
----
-
-## 📊 Example Output
-
-* Real-time city updates
-* Rescue progress tracking
-* Fire containment metrics
-* Agent activity logs
-
----
-
-## 🏆 Achievements
-
+## 🏆 Objective output
 * Efficient task allocation using AI principles
 * Real-time simulation with multiple interacting agents
 * Scalable design for future GUI / Web integration
-
 ---
 
 ## 🔮 Future Improvements
-
 * GUI using SFML / OpenGL
 * Web dashboard (React + backend)
 * Machine Learning for smarter decisions
 * Real map integration (GIS data)
 
----
-
-## 👨‍💻 Author
-
-**Arya Manve**
-AI & Data Science Student
-
----
-
-## ⭐ If you like this project
-
-Give it a ⭐ on GitHub — it helps a lot!
