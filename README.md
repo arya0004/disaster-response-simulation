@@ -1,25 +1,113 @@
-# Disaster Response Simulation 🚑🔥
+# 🚑🔥 Disaster Response Simulation (AI-Based)
 
-An AI-based disaster management system built in C++ that simulates real-time emergency response using:
+An intelligent **multi-agent disaster management system** built in **C++**, simulating real-time emergency response in a dynamic city environment.
 
-- A* Pathfinding
-- Multi-Agent Systems
-- Contract Net Protocol
-- Goal Stack Planning
+This project demonstrates how AI techniques can coordinate rescue operations efficiently under constraints like time, resources, and evolving hazards.
 
-## Features
-- Dynamic fire spread simulation
-- Rescue teams, ambulances, fire brigades
-- Task allocation using AI
-- Real-time console visualization
+---
 
-## Tech Used
-- C++
-- OOP
-- AI Planning Algorithms
+## 🧠 Core Concepts Used
 
-## How to Run
+* 🤖 Multi-Agent Systems
+* 📦 Contract Net Protocol (Task Allocation)
+* 🧭 A* Pathfinding Algorithm
+* 🎯 Goal Stack Planning
+* 🧱 Object-Oriented Design (OOP)
+
+---
+
+## ⚙️ Features
+
+* 🌆 Dynamic city grid simulation (25x25)
+* 🔥 Real-time fire spread with intensity control
+* 🧍 Victim health decay & urgency prioritization
+* 🚒 Intelligent agents:
+
+  * Rescue Teams
+  * Fire Brigades
+  * Ambulances
+* 🧠 Smart task allocation based on cost & priority
+* 📊 Live mission statistics dashboard
+* 🎮 Interactive configuration before simulation
+
+---
+
+## 🖥️ Simulation Preview
+
+### 🔹 City Map & Live Agents
+
+![Simulation Map](images/map.png)
+
+### 🔹 Mission Stats Dashboard
+
+![Mission Stats](images/stats.png)
+
+### 🔹 Configuration Menu
+
+![Config Menu](images/config.png)
+
+---
+
+## 🧩 System Architecture
+
+* **Grid-Based Environment**
+* **Task Generator**
+* **Contract Net Task Allocator**
+* **Agent Layer (3 types)**
+* **A* Pathfinding Engine**
+* **Goal Planner**
+
+---
+
+## 🚀 How to Run
+
+### 🛠️ Requirements
+
+* Windows OS (uses `windows.h`)
+* C++ Compiler (g++ / MinGW)
+
+### ▶️ Compile & Run
 
 ```bash
 g++ main.cpp -o simulation
 ./simulation
+```
+
+---
+
+## 📊 Example Output
+
+* Real-time city updates
+* Rescue progress tracking
+* Fire containment metrics
+* Agent activity logs
+
+---
+
+## 🏆 Achievements
+
+* Efficient task allocation using AI principles
+* Real-time simulation with multiple interacting agents
+* Scalable design for future GUI / Web integration
+
+---
+
+## 🔮 Future Improvements
+
+* GUI using SFML / OpenGL
+* Web dashboard (React + backend)
+* Machine Learning for smarter decisions
+* Real map integration (GIS data)
+
+---
+
+## 👨‍💻 Author
+
+**Arya Manve**
+AI & Data Science Student
+
+---
+
+## ⭐ If you like this project
+
+Give it a ⭐ on GitHub — it helps a lot!
