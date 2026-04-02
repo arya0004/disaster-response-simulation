@@ -1,12 +1,12 @@
-# 🚑🔥 Disaster Response Simulation (AI-Based)
+# Disaster Response Simulation (AI-Based)
 
 An intelligent **multi-agent disaster management system** built in **C++**, simulating real-time emergency response in a dynamic city environment.
 This project demonstrates how AI techniques can coordinate rescue operations efficiently under constraints like time, resources, and evolving hazards.
 ---
 
-## 🧠 Core Concepts Used
-* 🤖 Multi-Agent Systems
-* 📦 Contract Net Protocol (Task Allocation)
+## Core Concepts Used
+* Multi-Agent Systems
+* Contract Net Protocol (Task Allocation)
 * 🧭 A* Pathfinding Algorithm
 * 🎯 Goal Stack Planning
 * 🧱 Object-Oriented Design (OOP
